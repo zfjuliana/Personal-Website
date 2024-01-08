@@ -6,3 +6,6 @@ Link to website: https://juliana-zhang.netlify.app
 ### Deployment:
 - Netlify (https://www.netlify.com/)
 
+### Images and Graphics:
+- Google Images (https://www.google.com/imghp?hl=en)
+
